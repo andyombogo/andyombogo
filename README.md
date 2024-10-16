@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andyombogo most people know as john andrew, a name of over a million people on earth
+- 👋 Hi, I’m @andyombogo most people know me as john andrew, a name of over a million people on earth
 - 👀 I’m interested in data science, statistical analysis, research projects, and public health applications.
 - 🌱 I’m currently learning advanced data science for public health as part of my MSc in Data Science at the University of Nairobi.
 - 💞️ I’m looking to collaborate on research projects related to data analytics, health data, and web development.
