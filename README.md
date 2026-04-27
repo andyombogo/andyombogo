@@ -20,7 +20,7 @@ I turn messy public health and operational data into products people can underst
 ## GitHub Streak
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img alt="John Andrew GitHub streak" src="https://streak-stats.demolab.com?user=andyombogo&amp;hide_border=true&amp;background=0D1117&amp;stroke=30363D&amp;ring=58A6FF&amp;fire=F78166&amp;currStreakNum=58A6FF&amp;sideNums=C9D1D9&amp;currStreakLabel=8B949E&amp;sideLabels=8B949E&amp;dates=8B949E&amp;border_radius=8&amp;card_width=705"></a>
+  <a href="https://github-readme-streak-stats-lac-nu.vercel.app?user=andyombogo"><img alt="John Andrew GitHub streak" src="https://github-readme-streak-stats-lac-nu.vercel.app?user=andyombogo&amp;hide_border=true&amp;background=0D1117&amp;stroke=30363D&amp;ring=58A6FF&amp;fire=F78166&amp;currStreakNum=58A6FF&amp;sideNums=C9D1D9&amp;currStreakLabel=8B949E&amp;sideLabels=8B949E&amp;dates=8B949E&amp;border_radius=8&amp;card_width=705"></a>
 </p>
 
 <p align="center">
