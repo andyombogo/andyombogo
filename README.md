@@ -2,9 +2,9 @@
   <h1>John Andrew</h1>
   <p><strong>Data Scientist building explainable health analytics, reporting copilots, and decision-support tools.</strong></p>
   <p>
-    <a href="https://andyombogo.github.io/"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-andyombogo.github.io-0D1117?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white"></a>
-    <a href="https://github.com/andyombogo"><img alt="github" src="https://img.shields.io/badge/github-andyombogo-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
-    <a href="mailto:andyombogo@gmail.com"><img alt="email" src="https://img.shields.io/badge/email-andyombogo%40gmail.com-BB001B?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
+    <a href="https://andyombogo.github.io/"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-andyombogo.github.io-0D1117?style=flat-square&amp;logo=githubpages&amp;logoColor=white"></a>
+    <a href="https://github.com/andyombogo"><img alt="github" src="https://img.shields.io/badge/github-andyombogo-24292F?style=flat-square&amp;logo=github&amp;logoColor=white"></a>
+    <a href="mailto:andyombogo@gmail.com"><img alt="email" src="https://img.shields.io/badge/email-andyombogo%40gmail.com-BB001B?style=flat-square&amp;logo=gmail&amp;logoColor=white"></a>
   </p>
 </div>
 
