@@ -23,9 +23,11 @@ I turn messy public health and operational data into products people can underst
   <a href="https://github-readme-streak-stats-lac-nu.vercel.app?user=andyombogo"><img alt="John Andrew GitHub streak" src="https://github-readme-streak-stats-lac-nu.vercel.app?user=andyombogo&amp;hide_border=true&amp;background=0D1117&amp;stroke=30363D&amp;ring=58A6FF&amp;fire=F78166&amp;currStreakNum=58A6FF&amp;sideNums=C9D1D9&amp;currStreakLabel=8B949E&amp;sideLabels=8B949E&amp;dates=8B949E&amp;border_radius=8&amp;card_width=705"></a>
 </p>
 
+## GitHub Snapshot
+
 <p align="center">
-  <img height="165" alt="John Andrew GitHub stats" src="https://github-readme-stats.vercel.app/api?username=andyombogo&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;rank_icon=github">
-  <img height="165" alt="John Andrew top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyombogo&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=8">
+  <img width="352" alt="John Andrew GitHub stats" src="./assets/github-stats.svg">
+  <img width="352" alt="John Andrew top languages" src="./assets/top-languages.svg">
 </p>
 
 ## Featured Work

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="172" viewBox="0 0 352 172" role="img" aria-labelledby="title desc">
+  <title id="title">John Andrew top languages</title>
+  <desc id="desc">A stable top languages card for curated public-health and analytics repositories.</desc>
+  <rect x="1" y="1" width="350" height="170" rx="14" fill="#0D1117" stroke="#30363D"/>
+  <rect x="16" y="16" width="320" height="140" rx="12" fill="#111822"/>
+  <rect x="16" y="16" width="320" height="4" rx="2" fill="#58A6FF"/>
+
+  <text x="28" y="42" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Top Languages</text>
+  <text x="28" y="61" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="11">Curated from public analytics and dashboard work</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">
+    <g transform="translate(28 80)">
+      <text x="0" y="0" fill="#C9D1D9">Python</text>
+      <text x="286" y="0" text-anchor="end" fill="#8B949E">63%</text>
+      <rect x="0" y="8" width="296" height="7" rx="3.5" fill="#263140"/>
+      <rect x="0" y="8" width="186" height="7" rx="3.5" fill="#3572A5"/>
+    </g>
+    <g transform="translate(28 105)">
+      <text x="0" y="0" fill="#C9D1D9">HTML</text>
+      <text x="286" y="0" text-anchor="end" fill="#8B949E">16%</text>
+      <rect x="0" y="8" width="296" height="7" rx="3.5" fill="#263140"/>
+      <rect x="0" y="8" width="47" height="7" rx="3.5" fill="#E34C26"/>
+    </g>
+    <g transform="translate(28 130)">
+      <text x="0" y="0" fill="#C9D1D9">TypeScript</text>
+      <text x="286" y="0" text-anchor="end" fill="#8B949E">9%</text>
+      <rect x="0" y="8" width="296" height="7" rx="3.5" fill="#263140"/>
+      <rect x="0" y="8" width="27" height="7" rx="3.5" fill="#3178C6"/>
+    </g>
+  </g>
+
+  <g transform="translate(28 150)" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">
+    <circle cx="5" cy="0" r="4" fill="#F1E05A"/>
+    <text x="15" y="4" fill="#8B949E">JavaScript 7%</text>
+    <circle cx="102" cy="0" r="4" fill="#563D7C"/>
+    <text x="112" y="4" fill="#8B949E">CSS/R 5%</text>
+  </g>
+</svg>
