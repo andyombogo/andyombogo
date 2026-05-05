@@ -6,6 +6,9 @@
     <a href="https://github.com/andyombogo"><img alt="github" src="https://img.shields.io/badge/github-andyombogo-24292F?style=flat-square&amp;logo=github&amp;logoColor=white"></a>
     <a href="mailto:andyombogo@gmail.com"><img alt="email" src="https://img.shields.io/badge/email-andyombogo%40gmail.com-BB001B?style=flat-square&amp;logo=gmail&amp;logoColor=white"></a>
   </p>
+  <p>
+    <img alt="profile views" src="https://komarev.com/ghpvc/?username=andyombogo&amp;label=profile%20views&amp;color=0e75b6&amp;style=flat-square">
+  </p>
 </div>
 
 ## What I Build
